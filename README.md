@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sassi1711
 - 👀 I’m interested in learning web development'.  It's a such a exciting field with endless possibilities.
-- 🌱 I’m currently learning web development .I'm diving into world of coding such as HTML,CSS and JavaScript to build my foundation.
+- 🌱 I’m currently learning web development.  I'm diving into world of coding such as HTML,CSS and JavaScript to build my foundation.
 - 💞️ I’m looking to collaborate with Odin Community team on upcoming new basic projects.
 - 📫 Reach me via Gits Hub.
 
